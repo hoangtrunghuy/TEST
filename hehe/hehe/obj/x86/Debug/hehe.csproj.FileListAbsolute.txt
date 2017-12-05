@@ -8,3 +8,13 @@ C:\Users\Trung Huy\Desktop\HE\hehe\hehe\obj\x86\Debug\GenerateResource.read.1.tl
 C:\Users\Trung Huy\Desktop\HE\hehe\hehe\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Trung Huy\Desktop\HE\hehe\hehe\obj\x86\Debug\hehe.exe
 C:\Users\Trung Huy\Desktop\HE\hehe\hehe\obj\x86\Debug\hehe.pdb
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\bin\Debug\hehe.exe.config
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\hehe.exe
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\hehe.pdb
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\bin\Debug\hehe.exe
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\bin\Debug\hehe.pdb
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\hehe.Form1.resources
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\hehe.Properties.Resources.resources
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Trung Huy\Desktop\HE\TEST\hehe\hehe\obj\x86\Debug\GenerateResource.write.1.tlog
